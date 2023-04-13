@@ -1,0 +1,39 @@
+[debug] [2022-10-06T18:49:40.456Z] ----------------------------------------------------------------------
+[debug] [2022-10-06T18:49:40.458Z] Command:       /usr/local/bin/firebase /home/Brycode/.cache/firebase/tools/lib/node_modules/firebase-tools/lib/bin/firebase init
+[debug] [2022-10-06T18:49:40.458Z] CLI Version:   11.14.0
+[debug] [2022-10-06T18:49:40.459Z] Platform:      linux
+[debug] [2022-10-06T18:49:40.459Z] Node Version:  v16.16.0
+[debug] [2022-10-06T18:49:40.459Z] Time:          Thu Oct 06 2022 21:49:40 GMT+0300 (East Africa Time)
+[debug] [2022-10-06T18:49:40.459Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-10-06T18:49:40.466Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2022-10-06T18:49:40.466Z] > authorizing via signed-in user (bmoenga38@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  /home/Brycode/Desktop/Brian/WEB/dentelo-master
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[debug] [2022-10-06T18:50:06.785Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects pageSize=100
+[debug] [2022-10-06T18:50:07.681Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects 200
+[debug] [2022-10-06T18:50:07.682Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects [omitted]
+[info] i  Using project newvinemedical (Brycode-hosting) 
+[info] 
+=== Hosting Setup
+[info] 
+[info] Your public directory is the folder (relative to your project directory) that
+[info] will contain Hosting assets to be uploaded with firebase deploy. If you
+[info] have a build process for your assets, use your build's output directory.
+[info] 
